@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="mdi-google-cardboard" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 20 13">
+  <!-- Generator: Adobe Illustrator 30.1.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 136)  -->
+  <style>
+    .dynamicFill {
+        fill: black;
+    }
+    @media(prefers-color-scheme: dark) {
+        .dynamicFill {
+            fill: white;
+        }
+    }
+  </style>
+  <path class="dynamicFill" d="M18.74,0H1.2C.55,0,0,.57,0,1.27v10.46c0,.7.55,1.27,1.23,1.27h4.77c.54,0,1-.32,1.16-.79l1.39-3.47c.24-.58.8-.99,1.45-.99s1.21.41,1.45.99l1.39,3.47c.19.47.62.79,1.11.79h4.79c.71,0,1.26-.57,1.26-1.27V1.27c0-.7-.55-1.27-1.26-1.27M5.22,8.58c-1.22,0-2.22-1.03-2.22-2.29,0-1.29,1-2.29,2.22-2.29s2.21,1,2.21,2.29c0,1.26-.99,2.29-2.21,2.29M14.78,8.58c-1.22,0-2.21-1.03-2.21-2.29s.99-2.29,2.21-2.29,2.22,1.03,2.22,2.29-1,2.29-2.22,2.29Z"/>
+</svg>
